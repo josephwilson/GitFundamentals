@@ -1,3 +1,3 @@
 apples are cool.
-really really cool. 
-this is some new content from branch test1.
+really really cool.
+this is from test2
